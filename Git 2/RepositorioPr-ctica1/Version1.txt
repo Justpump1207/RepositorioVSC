@@ -1,0 +1,7 @@
+soy el archivo 1 papu
+y aqui esta el 2
+esta linea es nueva, la escribo para modificar el archivo
+linea añadida para las modificaciones en local
+
+modifico esto para el commit 1 de la version 1 de la rama nueva
+esta linea es para el commit2
